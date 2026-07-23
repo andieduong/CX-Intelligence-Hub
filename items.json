@@ -1,0 +1,333 @@
+{
+  "monthLabel": "July 2026",
+  "items": [
+    {
+      "cat": "vietnam",
+      "hot": true,
+      "headline": "Vietnam allows 62 disease groups to skip referrals",
+      "whats": "New Social Insurance and Health Insurance regulations take effect nationwide from 1 July 2026. The rules allow 62 disease groups to receive coverage without referral requirements and are linked to benefit access.",
+      "tags": [
+        "Strategy",
+        "Vietnam-context",
+        "Communication"
+      ],
+      "source": "Insurance Asia",
+      "date": "01 Jul 2026",
+      "url": "",
+      "p": {
+        "all": "Customers may expect faster, less administrative healthcare journeys, raising demand for clearer benefit guidance.",
+        "str": "Review how public-benefit access changes may shift health-service expectations among inforce customers and where Manulife Vietnam should simplify support journeys.",
+        "plt": "Strengthen digital guidance for public versus private coverage pathways, referral rules and hospital-access questions.",
+        "ana": "Track inquiry volumes on referrals, hospital choice and benefits coordination after the rule change.",
+        "cmp": "Run educational content that explains how Manulife coverage may complement public-health pathways without overstating benefits.",
+        "com": "Equip frontline and agency teams with simple FAQs on referral-free access and what it means for customer conversations."
+      }
+    },
+    {
+      "cat": "vietnam",
+      "hot": true,
+      "headline": "Vietnam insurance payouts rise 15.1% to $10b in H1 2026",
+      "whats": "Vietnam Social Security payouts for social insurance, health insurance and unemployment insurance rose 15.1% to $10b in the first six months of 2026. The increase was linked to expanded program coverage.",
+      "tags": [
+        "Strategy",
+        "Vietnam-context"
+      ],
+      "source": "Insurance Asia",
+      "date": "",
+      "url": "",
+      "p": {
+        "all": "Greater awareness of public entitlements may affect how inforce customers judge protection gaps and private-policy value.",
+        "str": "Position Manulife Vietnam protection around complementing public benefits, especially for customers reassessing health and income-security needs.",
+        "plt": "Add explainers or guided content that helps customers understand different protection sources in their servicing journey.",
+        "ana": "Monitor customer questions about state benefits and any change in perceived protection needs or lapse risk.",
+        "cmp": "Focus nurturing campaigns on protection gaps, recovery support and long-term financial resilience.",
+        "com": "Align internal messaging on the complementary role of private insurance in Vietnam’s broader protection ecosystem."
+      }
+    },
+    {
+      "cat": "competitor",
+      "hot": true,
+      "headline": "Chubb Life joins Igloo Ignite in Vietnam and Indonesia",
+      "whats": "Igloo will distribute Chubb Life products in Vietnam and Indonesia through its Ignite platform. The products became available in June 2026.",
+      "tags": [
+        "Strategy",
+        "Platform",
+        "Vietnam-context"
+      ],
+      "source": "Insurance Asia",
+      "date": "",
+      "url": "",
+      "p": {
+        "all": "Embedded distribution may raise expectations for simple protection access and faster digital journeys.",
+        "str": "Assess whether partner-platform distribution could pressure Manulife Vietnam’s acquisition and inforce cross-sell experience.",
+        "plt": "Review integration needs for partner-led journeys, including onboarding, consent, servicing handoff and post-sale support.",
+        "ana": "Track digital-partner benchmarks such as conversion, servicing contact rate, persistency and customer effort.",
+        "cmp": "Differentiate with trust, suitability cues and service continuity rather than convenience alone.",
+        "com": "Brief stakeholders on platform-based distribution as a competitive CX model, not only a sales-channel move."
+      }
+    },
+    {
+      "cat": "competitor",
+      "hot": true,
+      "headline": "Techcom Life pushes AI into core insurance operations",
+      "whats": "Techcom Life is building an AI-first operating model intended to move beyond pilots into core insurance functions. The story frames the move against the challenge that only 15% of AI use cases scale.",
+      "tags": [
+        "Strategy",
+        "Platform",
+        "VoC/Analytics",
+        "Vietnam-context"
+      ],
+      "source": "Insurance Asia",
+      "date": "",
+      "url": "",
+      "p": {
+        "all": "AI is becoming an operating-model capability that can shape onboarding, servicing, claims and advisor support.",
+        "str": "Benchmark where AI could reduce waiting, rework and friction for Manulife Vietnam inforce customers.",
+        "plt": "Prioritize scalable AI capabilities tied to governed workflows, service handoffs and measurable customer outcomes.",
+        "ana": "Measure cycle time, repeat contacts, error rates, escalation quality and adoption for AI-enabled processes.",
+        "cmp": "Communicate proven service improvements from AI rather than leading with technology claims.",
+        "com": "Frame AI internally around customer value, trust, governance and human oversight."
+      }
+    },
+    {
+      "cat": "competitor",
+      "hot": false,
+      "headline": "Vietnam banks compete with data, AI and digital trust",
+      "whats": "Vietnam’s digital banks are using data, AI and trust to engage customers and deliver personalized services in a crowded app market. The report describes a market of 110M people and 50 competing apps.",
+      "tags": [
+        "Strategy",
+        "Platform",
+        "VoC/Analytics",
+        "Vietnam-context"
+      ],
+      "source": "Insurance Asia",
+      "date": "",
+      "url": "",
+      "p": {
+        "all": "Banking apps may set the comparison point for insurer convenience, personalization and trust cues.",
+        "str": "Use digital-banking benchmarks to pressure-test Manulife Vietnam’s inforce servicing and cross-sell roadmap.",
+        "plt": "Improve personalization, self-service and trust signals across app and web servicing moments.",
+        "ana": "Compare engagement, completion and drop-off rates across personalized versus generic journeys.",
+        "cmp": "Build lifecycle campaigns around useful, trusted guidance rather than one-way product promotion.",
+        "com": "Share cross-industry benchmarks so stakeholders understand why insurance CX expectations are rising."
+      }
+    },
+    {
+      "cat": "vietnam",
+      "hot": false,
+      "headline": "Vietnam finance sector still faces digitalization hurdles",
+      "whats": "Industry experts discussed Vietnam’s challenging digital-finance landscape at the Asia Banking and Finance and Insurance Summit. The discussion was framed against eased regulation.",
+      "tags": [
+        "Strategy",
+        "Platform",
+        "Vietnam-context"
+      ],
+      "source": "Insurance Asia",
+      "date": "",
+      "url": "",
+      "p": {
+        "all": "Digital transformation will depend on execution quality, reliability and customer trust, not regulation alone.",
+        "str": "Focus Manulife Vietnam CX bets on journey reliability and measurable customer outcomes rather than feature volume.",
+        "plt": "Strengthen resilience, exception handling and human fallback across critical servicing journeys.",
+        "ana": "Track failure rates, complaint drivers, repeat contacts and resolution effectiveness by channel.",
+        "cmp": "Promote digital services only where the customer experience is dependable and supportable.",
+        "com": "Set internal expectations that digital CX success requires operational discipline and risk-aware rollout."
+      }
+    },
+    {
+      "cat": "vietnam",
+      "hot": false,
+      "headline": "Confident consumers intensify Vietnam finance competition",
+      "whats": "Vietnamese consumers are starting 2026 with more confidence in the economy and greater openness to taking on debt. The article frames this as a customer-squeeze issue for finance firms.",
+      "tags": [
+        "Strategy",
+        "Vietnam-context",
+        "VoC/Analytics"
+      ],
+      "source": "Insurance Asia",
+      "date": "",
+      "url": "",
+      "p": {
+        "all": "More active financial decision-making may raise expectations for clarity, affordability and trustworthy advice.",
+        "str": "Identify inforce segments where protection needs intersect with borrowing, family planning or financial stress.",
+        "plt": "Support financial-wellness content, reminders and next-best-action prompts in servicing journeys.",
+        "ana": "Monitor affordability concerns, debt-related sentiment and changes in protection demand or lapse risk.",
+        "cmp": "Position protection as part of balanced financial planning and resilience, not as an isolated product push.",
+        "com": "Help stakeholders connect consumer confidence trends to retention, nurturing and advice-quality priorities."
+      }
+    },
+    {
+      "cat": "vietnam",
+      "hot": false,
+      "headline": "Vietnam shifts pensions and social insurance to cashless payments",
+      "whats": "Vietnam is encouraging pension and social-insurance beneficiaries to open bank accounts as part of digital transformation efforts. The move supports cashless benefit distribution.",
+      "tags": [
+        "Platform",
+        "Vietnam-context",
+        "Communication"
+      ],
+      "source": "Insurance Asia",
+      "date": "",
+      "url": "",
+      "p": {
+        "all": "Cashless public-benefit adoption may normalize digital financial servicing across mixed digital-literacy groups.",
+        "str": "Consider how payment modernization affects expectations for premium reminders, payout journeys and servicing support.",
+        "plt": "Simplify digital-payment, account-management and reminder flows for older or less confident customers.",
+        "ana": "Track channel migration, payment failure reasons, support contacts and adoption by customer segment.",
+        "cmp": "Use practical campaign messages that emphasize ease, safety and support for digital payments.",
+        "com": "Prepare accessible communications for customers and agents managing varied digital-confidence levels."
+      }
+    },
+    {
+      "cat": "lifecycle",
+      "hot": false,
+      "headline": "VssID app reaches 38% insured-user adoption",
+      "whats": "Viet Nam Social Security said 38% of insured individuals had installed and logged into the VssID app as of end-2024. The figure reflects growing use of digital public-insurance services.",
+      "tags": [
+        "Platform",
+        "Vietnam-context"
+      ],
+      "source": "Insurance Asia",
+      "date": "",
+      "url": "",
+      "p": {
+        "all": "Public-insurance app usage creates a benchmark for benefits checking, record access and self-service transparency.",
+        "str": "Compare Manulife Vietnam’s inforce app value proposition against public-sector expectations for access and visibility.",
+        "plt": "Enhance self-service, policy visibility, claims status and account-access capabilities where friction remains high.",
+        "ana": "Benchmark login, repeat usage, task completion and assisted-service deflection across key digital journeys.",
+        "cmp": "Promote digital features that reduce customer effort and give clearer visibility into policy value.",
+        "com": "Use the public-app adoption signal to support internal prioritization of practical self-service improvements."
+      }
+    },
+    {
+      "cat": "competitor",
+      "hot": false,
+      "headline": "Vietnamese bank expands into non-life insurance",
+      "whats": "A Vietnamese bank expanded into the non-life insurance sector. The report notes similar moves by VietinBank, Agribank and HDBank.",
+      "tags": [
+        "Strategy",
+        "Vietnam-context"
+      ],
+      "source": "Insurance Asia",
+      "date": "",
+      "url": "",
+      "p": {
+        "all": "Bank-led insurance propositions may intensify competition for everyday protection and bundled finance journeys.",
+        "str": "Monitor how banking ecosystems use existing relationships to compete for protection needs among Manulife Vietnam customers.",
+        "plt": "Evaluate whether integrated payment, policy and servicing experiences are becoming baseline expectations.",
+        "ana": "Track competitor distribution reach, bundled offer signals and customer switching indicators where observable.",
+        "cmp": "Differentiate with advice quality, trust and ongoing relationship support rather than only product availability.",
+        "com": "Keep stakeholders aware that banks may shape customer expectations for insurance simplicity and convenience."
+      }
+    },
+    {
+      "cat": "competitor",
+      "hot": false,
+      "headline": "Insurance Asia Awards spotlight innovation and CX",
+      "whats": "The Insurance Asia Awards 2026 recognized insurers for innovation and customer-experience achievements. The event page lists 7 July 2026 as the award date in Singapore.",
+      "tags": [
+        "Strategy",
+        "Platform",
+        "Campaign"
+      ],
+      "source": "Insurance Asia",
+      "date": "07 Jul 2026",
+      "url": "",
+      "p": {
+        "all": "Award themes show which CX and innovation capabilities insurers are choosing to showcase publicly.",
+        "str": "Use award categories as a scan list for competitor benchmarking and roadmap calibration.",
+        "plt": "Check whether recognized capabilities expose gaps in Manulife Vietnam’s platform priorities or service experience.",
+        "ana": "Review how winners describe customer outcomes and identify metrics worth testing internally.",
+        "cmp": "Extract creative themes that could inform lifecycle engagement, loyalty and service-education campaigns.",
+        "com": "Share award signals as market indicators, not proof of business performance."
+      }
+    },
+    {
+      "cat": "competitor",
+      "hot": false,
+      "headline": "Zurich uses AI tool to move travel insurance upstream",
+      "whats": "Zurich Asia Pacific won at the Insurance Asia Awards 2026 for an AI-powered travel wardrobe generator. The initiative reframed insurance as part of travel preparation.",
+      "tags": [
+        "Campaign",
+        "Platform",
+        "Strategy"
+      ],
+      "source": "Insurance Asia",
+      "date": "",
+      "url": "",
+      "p": {
+        "all": "Insurance engagement can start before purchase when it helps customers handle real-life planning moments.",
+        "str": "Explore upstream engagement ideas for health, retirement and family-protection journeys among inforce customers.",
+        "plt": "Test lightweight utility tools that create value before a transaction or cross-sell conversation.",
+        "ana": "Measure utility-tool engagement, repeat use, assisted conversion and impact on lead quality.",
+        "cmp": "Build campaigns that help customers prepare for life moments rather than promoting products in isolation.",
+        "com": "Use the example to encourage broader internal thinking about value-adding customer interactions."
+      }
+    },
+    {
+      "cat": "lifecycle",
+      "hot": false,
+      "headline": "McKinsey outlines agentic AI underwriting model",
+      "whats": "McKinsey published The future underwriting operating system: From inbox to AI nerve center on 8 June 2026. It argues agentic AI can manage routine underwriting tasks while humans focus on oversight, judgment and portfolio steering.",
+      "tags": [
+        "Strategy",
+        "Platform",
+        "VoC/Analytics"
+      ],
+      "source": "McKinsey & Company",
+      "date": "08 Jun 2026",
+      "url": "",
+      "p": {
+        "all": "Faster evidence handling and decision flows can improve customer and advisor experience when governance is clear.",
+        "str": "Identify underwriting and servicing processes where Manulife Vietnam can reduce waiting, rework and advisor frustration.",
+        "plt": "Prioritize governed AI workflows that integrate with current case management, evidence capture and escalation paths.",
+        "ana": "Track cycle time, pending reasons, escalation volume, rework and customer effort before and after automation.",
+        "cmp": "Translate service-speed improvements into cautious, trust-building messages for customers and advisors.",
+        "com": "Position AI as human-governed support for better customer outcomes, not as a replacement for judgment."
+      }
+    },
+    {
+      "cat": "voc",
+      "hot": false,
+      "headline": "McKinsey maps banking innovation from 20M data sources",
+      "whats": "McKinsey published Banking trends snapshot: Finding value from innovation on 4 June 2026. The research used McKinsey Panorama and Idea Analytics across 20M data sources and more than 300,000 banking products and services to map almost 3,500 unique ideas.",
+      "tags": [
+        "VoC/Analytics",
+        "Strategy",
+        "Platform"
+      ],
+      "source": "McKinsey & Company",
+      "date": "04 Jun 2026",
+      "url": "",
+      "p": {
+        "all": "Market intelligence and journey benchmarking are becoming more systematic and data-assisted.",
+        "str": "Build a structured view of competitor journeys, service models and customer pain points relevant to Manulife Vietnam inforce growth.",
+        "plt": "Assess tools that can support competitor journey libraries, insight tagging and reusable CX evidence.",
+        "ana": "Expand benchmarking frameworks across claims, servicing, lifecycle engagement and cross-sell journeys.",
+        "cmp": "Use market signals to identify differentiated nurturing messages and service-led campaign angles.",
+        "com": "Promote evidence-based decision making through stronger insight-sharing and market-scan routines."
+      }
+    },
+    {
+      "cat": "lifecycle",
+      "hot": false,
+      "headline": "McKinsey says wealth clients prioritize trust and life decisions",
+      "whats": "McKinsey published Five client-led shifts reshaping European wealth management on 23 June 2026. Based on a survey of approximately 5,500 respondents across Europe, it says clients want advisors who navigate uncertainty, sustain trust, tailor service models and support major financial-life decisions.",
+      "tags": [
+        "Strategy",
+        "VoC/Analytics"
+      ],
+      "source": "McKinsey & Company",
+      "date": "23 Jun 2026",
+      "url": "",
+      "p": {
+        "all": "Customers may value confidence, trust and life-stage guidance as much as product explanation.",
+        "str": "Strengthen Manulife Vietnam lifecycle engagement around major life moments, retention and relationship-based value.",
+        "plt": "Support advisors and service teams with tools that enable tailored guidance and consistent follow-up.",
+        "ana": "Monitor trust, confidence, perceived value and engagement across onboarding, review and renewal moments.",
+        "cmp": "Create nurturing messages that emphasize support through uncertainty and major family or financial decisions.",
+        "com": "Align stakeholders around trust-building as a measurable CX objective, not only a brand aspiration."
+      }
+    }
+  ]
+}
