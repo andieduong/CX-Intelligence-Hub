@@ -1,262 +1,418 @@
-[
-  {
-    "id": "cx-2026-07-23-001",
-    "title": "Vietnam health insurance rules let 62 disease groups skip referrals",
-    "category": "vietnam",
-    "organization": "Vietnam Social Security / Vietnam health insurance system",
-    "market": "Vietnam",
-    "publishedDate": "2026-07-01",
-    "source": "Insurance Asia",
-    "sourceUrl": "https://insuranceasia.com/insurance/news/vietnam-insurance-rules-let-62-disease-groups-skip-referrals",
-    "whatHappened": "Vietnam introduced new Social Insurance and Health Insurance regulations nationwide from 1 July 2026, including rules allowing 62 disease groups to skip referral procedures and covering benefit levels.",
-    "cxRelevance": "Reduces friction in healthcare navigation and can improve perceived access, speed and trust for insured customers seeking treatment.",
-    "rank": 1
-  },
-  {
-    "id": "cx-2026-07-23-002",
-    "title": "BSI Awards 2026 recognized Manulife for AI-powered health reminder social campaign",
-    "category": "competitor",
-    "organization": "Buzzmetrics / BSI Awards / Manulife",
-    "market": "Vietnam",
-    "publishedDate": "2026-07-07",
-    "source": "Advertising Vietnam",
-    "sourceUrl": "https://advertisingvietnam.com/article/bsi-awards-2026-cong-bo-danh-sach-thuong-hieu-va-chien-dich-thang-giai",
-    "whatHappened": "BSI Awards 2026 announced winners on 2 July 2026. The article said Manulife stood out in The Best A.I-Powered Social Media Campaign category by turning health reminders into catchy songs and was also named among The Best Societal Impact Campaign winners.",
-    "cxRelevance": "Shows how health nudges, social-first creativity and AI can turn prevention messages into more engaging insurance touchpoints.",
-    "rank": 2
-  },
-  {
-    "id": "cx-2026-07-23-003",
-    "title": "Ogilvy APAC study warned that trust loss often shows up as silent churn",
-    "category": "voice of customers",
-    "organization": "Ogilvy",
-    "market": "APAC",
-    "publishedDate": "2026-07-15",
-    "source": "Advertising Vietnam",
-    "sourceUrl": "https://advertisingvietnam.com/article/bao-cao-the-power-of-proof-cua-ogilvy-93-nguoi-tieu-dung-khong-len-tieng-khi-mat-niem-tin-su-im-lang",
-    "whatHappened": "Advertising Vietnam summarized Ogilvy's Believability Index APAC 2026: The Power of Proof, reporting that 93% of APAC consumers silently leave brands when they lose trust, while only 10% post negative experiences on social media.",
-    "cxRelevance": "Complaint and social sentiment volumes may understate trust erosion. Insurers should combine VoC with behavioral signals such as lapse risk, inactivity and service friction.",
-    "rank": 3
-  },
-  {
-    "id": "cx-2026-07-23-004",
-    "title": "Vietnam Gen Z is using AI as a discovery and decision filter",
-    "category": "voice of customers",
-    "organization": "Decision Lab / McKinsey / Samsung / GWI",
-    "market": "Vietnam / APAC",
-    "publishedDate": "2026-07-07",
-    "source": "Advertising Vietnam",
-    "sourceUrl": "https://advertisingvietnam.com/article/hieu-ung-gen-z-khi-nguoi-tieu-dung-thuan-ai-tai-dinh-nghia-cuoc-choi-thuong-hieu-tai-chau-a-thai-bin",
-    "whatHappened": "The article reported that AI is becoming a starting point in Gen Z discovery and evaluation journeys. It cited Decision Lab data that 78% of Vietnamese users use AI and 33% integrate AI into daily life, with 86% of Vietnamese 18-24 year-olds using AI recently and 40% using it daily.",
-    "cxRelevance": "Insurance brands need AI-answer visibility, structured product evidence and trust-building content because young customers may let AI filter financial choices before they visit owned channels.",
-    "rank": 4
-  },
-  {
-    "id": "cx-2026-07-23-005",
-    "title": "AI moved from marketing back office to customer-facing ad experiences",
-    "category": "martech",
-    "organization": "Google / Meta / TikTok / major social platforms",
-    "market": "Global, transferable to Vietnam",
-    "publishedDate": "2026-07-21",
-    "source": "Advertising Vietnam",
-    "sourceUrl": "https://advertisingvietnam.com/article/ai-marketing-2026-nen-tang-day-ai-ra-mat-tien-nguoi-tieu-dung-lai-muon-dua-vao-hau-truong",
-    "whatHappened": "The article said Google introduced and began testing Gemini-based search ad formats in May 2026, including Conversational Discovery Ads, Highlighted Answers, AI-powered Shopping Ads and Business Agent for Leads. It also noted Meta, TikTok, Pinterest, Snap, Reddit and X are expanding automated campaign tools.",
-    "cxRelevance": "Customer journeys are shifting toward AI-mediated answers and agentlike ad interactions. Insurers should monitor how AI explanations, sponsored answers and campaign automation affect trust, clarity and conversion.",
-    "rank": 5
-  },
-  {
-    "id": "cx-2026-07-23-006",
-    "title": "Global CX Summit webinar promoted Human-First AI for marketing and customer experience",
-    "category": "martech",
-    "organization": "SMB+ / Freshworks",
-    "market": "Vietnam / Global",
-    "publishedDate": "2026-07-01",
-    "source": "Advertising Vietnam",
-    "sourceUrl": "https://advertisingvietnam.com/article/webinar-08072026-global-cx-summit-human-first-ai-transformation",
-    "whatHappened": "SMB+ and Freshworks organized the Global CX Summit: Human-First AI Transformation webinar for 8 July 2026, with stated themes including AI in marketing and CX, balancing automation with experience, AI in customer journeys, and AI support for marketing, sales and customer service.",
-    "cxRelevance": "Human-first AI is a useful design principle for insurance CX, especially where automation must preserve empathy, compliance and service recovery.",
-    "rank": 6
-  },
-  {
-    "id": "cx-2026-07-23-007",
-    "title": "ChatGPT-style ads emerged as a possible new customer discovery channel",
-    "category": "martech",
-    "organization": "OpenAI / ChatGPT Ads",
-    "market": "Global, transferable to Vietnam",
-    "publishedDate": "2026-07-11",
-    "source": "Advertising Vietnam",
-    "sourceUrl": "https://advertisingvietnam.com/article/cach-ai-giup-doi-ngu-social-media-lam-viec-hieu-qua-hon-nam-2026-1",
-    "whatHappened": "The article reported that AI chat is becoming a new customer discovery and decision channel and said OpenAI launched Ads Manager in May 2026 to allow businesses to create, manage and optimize ChatGPT ad campaigns.",
-    "cxRelevance": "If conversational AI becomes an acquisition surface, insurers need governance for disclosures, product suitability, measurement and lead handoff experiences.",
-    "rank": 7
-  },
-  {
-    "id": "cx-2026-07-23-008",
-    "title": "TikTok launched AI tools to automate ad creation through Symphony Agent",
-    "category": "martech",
-    "organization": "TikTok",
-    "market": "Global, transferable to Vietnam",
-    "publishedDate": "2026-07-09",
-    "source": "Advertising Vietnam",
-    "sourceUrl": "https://advertisingvietnam.com/article/tiktok-ra-mat-bo-cong-cu-ai-moi-ho-tro-tao-quang-cao-tu-dong-cho-marketer",
-    "whatHappened": "TikTok launched additional AI tools in its Symphony suite. The article highlighted Symphony Agent, designed to support marketers from trend research and idea generation to ad content development and campaign recommendations using natural language.",
-    "cxRelevance": "Insurance marketers can watch automated creative tooling for faster testing of education-led content, lead generation and segment-specific propositions.",
-    "rank": 8
-  },
-  {
-    "id": "cx-2026-07-23-009",
-    "title": "Shopee Summit 2026 positioned AI, video commerce and creator economy as content-commerce growth drivers",
-    "category": "competitor",
-    "organization": "Shopee / Ecomobi",
-    "market": "Vietnam / Southeast Asia",
-    "publishedDate": "2026-07-08",
-    "source": "Advertising Vietnam",
-    "sourceUrl": "https://advertisingvietnam.com/article/4-xu-huong-tu-shopee-summit-2026-content-commerce-buoc-sang-giai-doan-moi",
-    "whatHappened": "Shopee Brands x Creators Summit 2026 outlined trends for the next stage of content commerce, including AI, video commerce, livestream and creator economy. The article said more than two-thirds of Shopee users regularly watch video or livestream before purchasing and about 70% prefer learning about products via video rather than images or descriptions.",
-    "cxRelevance": "Signals customer preference for visual, creator-led discovery and education. Insurance can adapt this for simple product explainers, claim guidance and financial wellness content.",
-    "rank": 9
-  },
-  {
-    "id": "cx-2026-07-23-010",
-    "title": "Google tested Sponsored Shops to bring brand storefront signals into search results",
-    "category": "martech",
-    "organization": "Google",
-    "market": "Global, transferable to Vietnam",
-    "publishedDate": "2026-07-07",
-    "source": "Advertising Vietnam",
-    "sourceUrl": "https://advertisingvietnam.com/article/google-thu-nghiem-sponsored-shops-dieu-gi-dang-thay-doi-voi-quang-cao-tim-kiem",
-    "whatHappened": "Google tested Sponsored Shops on search results, allowing brands to appear as a complete store block rather than a single ad. The article said users can see brand name, customer ratings, featured product images and other store identity signals in one ad unit.",
-    "cxRelevance": "Search journeys are moving from product-level comparison toward brand trust signals. Insurers should ensure ratings, brand proof and proposition clarity surface early in search-led journeys.",
-    "rank": 10
-  },
-  {
-    "id": "cx-2026-07-23-011",
-    "title": "AI Visibility became a new rule for being recommended by AI search tools",
-    "category": "martech",
-    "organization": "Ori Marketing Agency",
-    "market": "Vietnam / Global",
-    "publishedDate": "2026-07-01",
-    "source": "Advertising Vietnam",
-    "sourceUrl": "https://advertisingvietnam.com/article/tu-seo-den-ai-visibility-nhung-quy-tac-moi-quyet-dinh-kha-nang-duoc-ai-de-xuat",
-    "whatHappened": "The article said ChatGPT, Gemini, Perplexity and AI Overviews are becoming first touchpoints for users, shifting brand competition from search rankings to being mentioned, cited and recommended in AI-generated answers.",
-    "cxRelevance": "Insurers should prepare product, claims and service content for AI retrieval so customers receive accurate, compliant and trust-building answers upstream.",
-    "rank": 11
-  },
-  {
-    "id": "cx-2026-07-23-012",
-    "title": "Social media AI expanded from content creation into analytics, insight discovery and competitor tracking",
-    "category": "voice of customers",
-    "organization": "Ori Marketing Agency",
-    "market": "Global, transferable to Vietnam",
-    "publishedDate": "2026-07-16",
-    "source": "Advertising Vietnam",
-    "sourceUrl": "https://advertisingvietnam.com/article/ai-se-thay-doi-social-media-marketing-nhu-the-nao-trong-nam-toi",
-    "whatHappened": "The article said AI is becoming part of social media analysis, optimization and decision-making. It listed use cases including performance analysis, trend tracking, competitor analysis, customer feedback synthesis, emotion evaluation and automated reporting.",
-    "cxRelevance": "AI-assisted social analytics can strengthen VoC by identifying emerging service pain points, cross-industry expectation shifts and campaign feedback faster.",
-    "rank": 12
-  },
-  {
-    "id": "cx-2026-07-23-013",
-    "title": "Influencer marketing shifted toward data, commerce and measurement infrastructure",
-    "category": "martech",
-    "organization": "Dentsu / Meta / CreatorIQ",
-    "market": "Global, transferable to Vietnam",
-    "publishedDate": "2026-07-15",
-    "source": "Advertising Vietnam",
-    "sourceUrl": "https://advertisingvietnam.com/article/cac-ong-lon-nganh-quang-cao-gap-rut-xay-dung-lai-he-sinh-thai-truyen-thong-cuoc-canh-tranh-moi-cua-i",
-    "whatHappened": "Advertising Vietnam reported that major advertising groups are investing in technology, data and measurement infrastructure for influencer marketing. Dentsu integrated Meta Creator Marketplace and Partnership Ads API into its internal CATS system and expanded with CreatorIQ data and analytics.",
-    "cxRelevance": "Creator engagement is moving from awareness toward full-funnel commerce. Insurance teams can use creator operations for education, lead nurturing and trust-building, not just reach.",
-    "rank": 13
-  },
-  {
-    "id": "cx-2026-07-23-014",
-    "title": "Bath & Body Works used social listening, influencers and multisensory experience to reconnect with Gen Z",
-    "category": "customer lifecycle",
-    "organization": "Bath & Body Works",
-    "market": "United States, transferable to Vietnam retail financial CX",
-    "publishedDate": "2026-07-20",
-    "source": "Advertising Vietnam",
-    "sourceUrl": "https://advertisingvietnam.com/article/bath-body-works-dat-cuoc-vao-gen-z-chien-luoc-dua-thuong-hieu-tro-lai-cuoc-choi-bang-social-listenin",
-    "whatHappened": "The article said Bath & Body Works is shifting from a traditional mall retail model toward an ecosystem centered on experience, data and digital culture, using social listening, influencers and multisensory experiences to stay relevant with Gen Z.",
-    "cxRelevance": "A reminder that young customers discover brands through creators and digital culture. Financial brands can design sensory, community and social proof cues around otherwise abstract propositions.",
-    "rank": 14
-  },
-  {
-    "id": "cx-2026-07-23-015",
-    "title": "D2C checkout bottlenecks were framed as a silent profit leak and trust break",
-    "category": "customer lifecycle",
-    "organization": "RIO Vietnam / D2C brands",
-    "market": "Vietnam",
-    "publishedDate": "2026-07-03",
-    "source": "Advertising Vietnam",
-    "sourceUrl": "https://advertisingvietnam.com/article/diem-nghen-trang-thanh-toan-am-tham-bao-mon-bien-loi-nhuan-cua-cac-brand-d2c-ra-sao",
-    "whatHappened": "The article argued that many D2C brands over-invest in acquisition but neglect checkout conversion. It described cases where high-quality customers complete most of the journey and then abandon at the payment information step due to friction and expectation gaps.",
-    "cxRelevance": "Insurance lead forms, premium payment and policy purchase flows have similar bottom-funnel risks. Checkout clarity, trust and flexibility affect conversion and customer confidence.",
-    "rank": 15
-  },
-  {
-    "id": "cx-2026-07-23-016",
-    "title": "Cosmetics ecommerce article urged CRM, loyalty and customer data integration for repeat purchase cycles",
-    "category": "customer lifecycle",
-    "organization": "SECOMM",
-    "market": "Vietnam",
-    "publishedDate": "2026-07-01",
-    "source": "Advertising Vietnam",
-    "sourceUrl": "https://advertisingvietnam.com/article/thuong-mai-dien-tu-nganh-my-pham-tu-nen-tang-ban-hang-den-he-sinh-thai-quan-tri-khach-hang",
-    "whatHappened": "The article argued that cosmetics ecommerce should not be treated as only a storefront. It said sustainable growth requires connected customer data, product content, CRM and loyalty so brands can understand needs, routine stage and post-purchase behavior.",
-    "cxRelevance": "Insurance also requires lifecycle data, reminders and advice beyond the first sale. CRM, loyalty and post-purchase engagement can improve retention and cross-sell relevance.",
-    "rank": 16
-  },
-  {
-    "id": "cx-2026-07-23-017",
-    "title": "Mizuno built a connected commerce infrastructure with AnyMind Group",
-    "category": "martech",
-    "organization": "Mizuno / AnyMind Group",
-    "market": "Vietnam",
-    "publishedDate": "2026-07-01",
-    "source": "Advertising Vietnam",
-    "sourceUrl": "https://advertisingvietnam.com/article/mizuno-thuc-day-tang-truong-thuong-mai-dien-tu-thong-qua-he-sinh-thai-thuong-mai-dien-tu-ket-noi",
-    "whatHappened": "Mizuno partnered with AnyMind Group to build a centralized ecommerce infrastructure connecting data, technology and operations across online sales channels. The strategy included connected multi-platform commerce, centralized ecommerce data, performance ads, affiliate marketing and livestream commerce.",
-    "cxRelevance": "A useful operating model for insurers working across owned apps, bank partners, agents, social commerce and ecosystem platforms: connect data and operations across touchpoints.",
-    "rank": 17
-  },
-  {
-    "id": "cx-2026-07-23-018",
-    "title": "InnoEx 2026 framed AI, data, automation and reinvention as Vietnam business priorities",
-    "category": "vietnam",
-    "organization": "InnoEx",
-    "market": "Vietnam",
-    "publishedDate": "2026-07-13",
-    "source": "Advertising Vietnam",
-    "sourceUrl": "https://advertisingvietnam.com/article/innoex-2026-doanh-nghiep-viet-truoc-nhung-chuyen-dich-moi-cua-kinh-te-toan-cau",
-    "whatHappened": "InnoEx 2026 announced the theme 'The Inflection Point' and said the event will run 19-20 August 2026 in Ho Chi Minh City, expected to attract more than 30,000 visitors, 4,000 business leaders and participants from more than 60 countries and territories.",
-    "cxRelevance": "Signals that Vietnamese businesses are prioritizing AI, data, automation and business model reinvention, relevant for CX capability benchmarking and partner scouting.",
-    "rank": 18
-  },
-  {
-    "id": "cx-2026-07-23-019",
-    "title": "McKinsey highlighted client-led shifts reshaping wealth management",
-    "category": "voice of customers",
-    "organization": "McKinsey & Company",
-    "market": "Global, transferable to Vietnam affluent and bancassurance segments",
-    "publishedDate": "2026-06-23",
-    "source": "McKinsey & Company",
-    "sourceUrl": "https://www.mckinsey.com/industries/financial-services/our-insights",
-    "whatHappened": "McKinsey listed 'Five client-led shifts reshaping European wealth management' dated June 23, 2026, noting survey results point to changing consumer preferences and a need for new strategic imperatives.",
-    "cxRelevance": "Affluent customer expectations are shifting. Vietnam insurers with investment-linked, retirement or bancassurance propositions should watch advice, personalization and service model expectations.",
-    "rank": 19
-  },
-  {
-    "id": "cx-2026-07-23-020",
-    "title": "McKinsey fintech podcast focused on managing complexity and easing customer pain points",
-    "category": "customer lifecycle",
-    "organization": "Booking.com / McKinsey & Company",
-    "market": "Global, transferable to travel, payments and insurance ecosystems",
-    "publishedDate": "2026-06-30",
-    "source": "McKinsey & Company",
-    "sourceUrl": "https://www.mckinsey.com/industries/financial-services/our-insights",
-    "whatHappened": "McKinsey listed a June 30, 2026 podcast with Booking.com's SVP of Fintech, describing how the travel-booking company manages complexity and eases customers' pain points.",
-    "cxRelevance": "Useful for ecosystem insurance and travel protection: simplifying payment, booking and protection pain points can improve attachment and post-purchase servicing.",
-    "rank": 20
-  }
-]
+{
+  "monthLabel": "July 2026",
+  "items": [
+    {
+      "cat": "vietnam",
+      "hot": true,
+      "headline": "Vietnam expands direct health-insurance access for 62 disease groups",
+      "whats": "Insurance Asia reported that Vietnam will introduce nationwide social-insurance and health-insurance regulations from 1 July 2026, including benefit-level changes and allowing 62 disease groups to skip referrals. This is a health-access signal with immediate relevance to care navigation and claims expectations.",
+      "tags": [
+        "Strategy",
+        "Vietnam-context",
+        "Communication"
+      ],
+      "source": "Insurance Asia",
+      "date": "2026-07-01",
+      "url": "https://insuranceasia.com/insurance/news/vietnam-insurance-rules-let-62-disease-groups-skip-referrals",
+      "p": {
+        "all": "Inforce customers may compare private insurer support against easier public-system access, raising the bar for guidance, claims transparency and hospital-navigation support.",
+        "str": "Position health riders and service support around navigation, reassurance and speed rather than only reimbursement value.",
+        "plt": "Prioritize in-app eligibility explainers, referral guidance and hospital journey content for health-policy customers.",
+        "ana": "Track claims inquiries and service tickets linked to referral, hospital choice and benefit confusion after the 1 July changes.",
+        "cmp": "Run targeted education for health and critical-illness segments on how Manulife coverage complements public health-insurance access.",
+        "com": "Communicate simply: what public insurance may cover, what Manulife covers, and when customers should contact Manulife before treatment."
+      }
+    },
+    {
+      "cat": "vietnam",
+      "hot": true,
+      "headline": "Vietnam targets over 95% health-insurance coverage in 2026",
+      "whats": "Insurance Asia reported that Vietnam aims to reach more than 95% health-insurance coverage by 2026 and full universal coverage by 2030. The policy direction reinforces healthcare access as a mainstream consumer expectation.",
+      "tags": [
+        "Strategy",
+        "Vietnam-context"
+      ],
+      "source": "Insurance Asia",
+      "date": "2026-07",
+      "url": "https://insuranceasia.com/insurance/news/vietnam-targets-95-health-insurance-coverage-2026-under-resolution",
+      "p": {
+        "all": "As public coverage broadens, private insurance must make its incremental value clearer for existing customers through convenience, choice, speed and family protection.",
+        "str": "Reframe health propositions around gaps left by universal coverage, such as income protection, service support and private-care optionality.",
+        "plt": "Add gap-assessment content and benefit comparison modules into customer servicing journeys.",
+        "ana": "Segment inforce customers by likely public-coverage reliance and identify those needing education on complementary protection.",
+        "cmp": "Use nurturing campaigns that explain why maintaining private cover still matters even when public coverage expands.",
+        "com": "Avoid fear-based messages; focus on confidence, continuity of care and financial resilience."
+      }
+    },
+    {
+      "cat": "vietnam",
+      "hot": false,
+      "headline": "New Social Insurance Law takes effect with lump-sum payout provisions",
+      "whats": "Insurance Asia reported that Vietnam's new Social Insurance Law, effective 1 July 2026, allows workers who stop participating in social insurance to claim a lump-sum payout. The change affects how customers think about long-term savings, liquidity and protection trade-offs.",
+      "tags": [
+        "Strategy",
+        "Vietnam-context",
+        "Communication"
+      ],
+      "source": "Insurance Asia",
+      "date": "2026-07-01",
+      "url": "https://insuranceasia.com/insurance/news/vietnam-enacts-new-social-insurance-law-effective-1-july",
+      "p": {
+        "all": "Liquidity options in public schemes could shape customer expectations for flexibility in life-insurance servicing, withdrawals and policy value explanations.",
+        "str": "Review retention playbooks for customers considering surrender or partial withdrawal during financial-stress moments.",
+        "plt": "Surface clearer policy-value, withdrawal-impact and premium-holiday guidance in self-service channels.",
+        "ana": "Monitor surrender, lapse and premium-holiday reasons for references to liquidity, job changes or social-insurance decisions.",
+        "cmp": "Trigger financial-resilience education campaigns for customers with recent premium-payment stress signals.",
+        "com": "Explain long-term implications of taking cash now versus maintaining protection in plain language."
+      }
+    },
+    {
+      "cat": "vietnam",
+      "hot": false,
+      "headline": "Vietnam expands mandatory social insurance to household business owners",
+      "whats": "Insurance Asia reported that Vietnam's 2024 Social Insurance Law will come into effect on 1 July and expand mandatory social-insurance scope to include household business owners. This broadens formal protection expectations among self-employed and microbusiness customers.",
+      "tags": [
+        "Strategy",
+        "Vietnam-context"
+      ],
+      "source": "Insurance Asia",
+      "date": "2026-07-01",
+      "url": "https://insuranceasia.com/insurance/news/vietnam-expands-social-insurance-cover-household-business-owners",
+      "p": {
+        "all": "More microbusiness households may become aware of protection planning, creating openings for education on family continuity and income-risk protection.",
+        "str": "Build segment-specific servicing and nurturing for self-employed policyholders and household business owners.",
+        "plt": "Tag occupation and microbusiness indicators in CRM only where captured with consent and suitable governance.",
+        "ana": "Assess lapse and top-up behavior among self-employed customers as social-insurance obligations change.",
+        "cmp": "Develop content for business-owner families on balancing mandatory social contributions with private protection.",
+        "com": "Use practical examples around income interruption, medical costs and family cash flow."
+      }
+    },
+    {
+      "cat": "vietnam",
+      "hot": false,
+      "headline": "Vietnam updates social-insurance rules for foreign contract staff",
+      "whats": "Insurance Asia reported clearer guidelines on mandatory social insurance for foreign workers under the 2024 Law on Social Insurance. This is relevant for employers, expatriate staff and internationally mobile customers in Vietnam.",
+      "tags": [
+        "Vietnam-context",
+        "Communication"
+      ],
+      "source": "Insurance Asia",
+      "date": "2026-07",
+      "url": "https://insuranceasia.com/insurance/vietnam-updates-social-insurance-law-foreign-contract-staff",
+      "p": {
+        "all": "Customers with foreign-worker status may need differentiated explanations on public versus private cover and portability.",
+        "str": "Identify whether servicing guides need an expatriate or foreign-contract-staff FAQ for life and health policies.",
+        "plt": "Create searchable service knowledge-base entries for foreign-worker social-insurance questions.",
+        "ana": "Track foreign-language or expat-related service queries to size demand for tailored content.",
+        "cmp": "Nurture eligible segments with educational content on protection continuity while working in Vietnam.",
+        "com": "Use compliant, neutral wording and direct customers to official guidance for statutory details."
+      }
+    },
+    {
+      "cat": "vietnam",
+      "hot": false,
+      "headline": "Vietnam issues guidance on voluntary social-insurance lump-sum payouts",
+      "whats": "Insurance Asia reported that Vietnam issued a decree providing detailed guidance on provisions of the Social Insurance Law related to voluntary social insurance and lump-sum payouts. The signal reinforces customer interest in flexibility and cash access.",
+      "tags": [
+        "Strategy",
+        "Vietnam-context"
+      ],
+      "source": "Insurance Asia",
+      "date": "2026-07",
+      "url": "https://insuranceasia.com/news/vietnam-updates-insurance-law-guidance-lump-sum-payouts",
+      "p": {
+        "all": "Public-policy flexibility can increase expectations that insurers provide transparent options in financial-stress moments.",
+        "str": "Strengthen save-the-policy treatment paths before customers make irreversible surrender decisions.",
+        "plt": "Add scenario calculators showing the protection impact of withdrawal, premium holiday and surrender requests.",
+        "ana": "Analyze whether policy-loan, withdrawal and surrender inquiries rise after social-insurance payout news.",
+        "cmp": "Launch retention journeys that help customers preserve core protection while managing liquidity needs.",
+        "com": "Emphasize choice, consequences and support rather than discouraging customers from accessing value."
+      }
+    },
+    {
+      "cat": "vietnam",
+      "hot": false,
+      "headline": "State Bank of Vietnam proposes amendments to deposit-insurance law",
+      "whats": "Insurance Asia reported that the State Bank of Vietnam submitted a proposal to amend the Law on Deposit Insurance. While banking-focused, the proposal is a trust-and-protection signal for financial-services customers.",
+      "tags": [
+        "Vietnam-context",
+        "Strategy"
+      ],
+      "source": "Insurance Asia",
+      "date": "2026-07",
+      "url": "https://insuranceasia.com/insurance/news/vietnam-proposes-updates-deposit-insurance-law",
+      "p": {
+        "all": "Financial-protection headlines can shape customer expectations around institutional safety, transparency and guarantees across all financial services.",
+        "str": "Reinforce trust messaging around insurer solvency, policy guarantees and responsible advice where applicable.",
+        "plt": "Ensure servicing portals make policy guarantees, exclusions and benefit conditions easy to find.",
+        "ana": "Watch for customer questions combining bank deposit safety and insurance policy safety.",
+        "cmp": "Include trust-building proof points in inforce newsletters and advisor follow-ups.",
+        "com": "Use factual, compliant language to clarify differences between bank deposit insurance and life-insurance protection."
+      }
+    },
+    {
+      "cat": "vietnam",
+      "hot": true,
+      "headline": "Vietnam insurance payouts rise 15.1% in first half of 2026",
+      "whats": "Insurance Asia reported that Vietnam insurance payouts jumped 15.1% to $10 billion in the first six months of 2026, citing Vietnam Social Security and expanded coverage across social, health and unemployment insurance. This is a strong servicing and trust signal.",
+      "tags": [
+        "Vietnam-context",
+        "VoC/Analytics",
+        "Strategy"
+      ],
+      "source": "Insurance Asia",
+      "date": "2026-07",
+      "url": "https://insuranceasia.com/insurance/news/vietnam-insurance-payouts-jump-151-10b-in-6m-2026",
+      "p": {
+        "all": "Higher payout visibility may increase customer expectations for faster, clearer private claims and benefit communications.",
+        "str": "Use claims experience as a retention asset, not just an operations process.",
+        "plt": "Prioritize claim-status tracking, proactive notification and document-completeness checks in digital journeys.",
+        "ana": "Benchmark internal claims turn-around and complaint drivers against rising market attention to payouts.",
+        "cmp": "Share anonymized claims-support stories and practical claim-preparation tips to inforce customers.",
+        "com": "Communicate proof of support with clear timelines, required documents and next-step expectations."
+      }
+    },
+    {
+      "cat": "martech",
+      "hot": false,
+      "headline": "Vietnam banks use data, AI and digital trust to compete for customers",
+      "whats": "Insurance Asia reported that Vietnam's digital banks are using data, AI and trust to engage customers and deliver personalized services in a market described as having 110 million people and 50 competing apps. The signal shows financial-services CX competition moving toward personalization and trust architecture.",
+      "tags": [
+        "Platform",
+        "VoC/Analytics",
+        "Strategy"
+      ],
+      "source": "Insurance Asia",
+      "date": "2026-07",
+      "url": "https://insuranceasia.com/event-news/vietnam-banks-leverage-data-ai-and-digital-trust-capture-customers",
+      "p": {
+        "all": "Banking apps are training customers to expect immediate, personalized and trusted financial interactions, which can influence insurance servicing expectations.",
+        "str": "Treat digital trust and personalization as retention levers for inforce customers, not only acquisition tools.",
+        "plt": "Advance next-best-action, consented data use and personalized servicing prompts in customer portals.",
+        "ana": "Measure engagement lift from personalized nudges versus generic servicing messages.",
+        "cmp": "Develop behavior-based nurturing for protection reviews, health riders and policy-value education.",
+        "com": "Explain how customer data is used to improve service in transparent, permission-based language."
+      }
+    },
+    {
+      "cat": "vietnam",
+      "hot": false,
+      "headline": "Vietnam finance sector faces digitalization challenges despite eased regulation",
+      "whats": "Insurance Asia reported that experts discussed Vietnam's digital landscape at the Asian Banking and Finance and Insurance Summit, including challenges despite eased regulation. The discussion focused on navigating digital transformation in finance.",
+      "tags": [
+        "Vietnam-context",
+        "Platform",
+        "Strategy"
+      ],
+      "source": "Insurance Asia",
+      "date": "2026-07",
+      "url": "https://insuranceasia.com/event-news/vietnams-finance-sector-faces-digitalisation-challenges-despite-eased-regulation",
+      "p": {
+        "all": "Regulatory easing alone will not guarantee better CX; execution quality, data governance and customer trust remain differentiators.",
+        "str": "Prioritize fewer, high-impact digital servicing journeys over scattered feature expansion.",
+        "plt": "Focus on reliability, authentication, document upload and query resolution before advanced features.",
+        "ana": "Track friction by journey step to identify where digitalization creates drop-off or repeat contacts.",
+        "cmp": "Promote digital servicing only where the experience is stable enough to build confidence.",
+        "com": "Set realistic expectations when migrating customers from advisor-led to digital-supported servicing."
+      }
+    },
+    {
+      "cat": "martech",
+      "hot": false,
+      "headline": "APAC P&C insurers expected to lift tech spending as AI reshapes priorities",
+      "whats": "Insurance Asia reported that Asia-Pacific P&C insurers are expected to increase technology spending by nearly 14% in 2026 as they invest more in AI. The signal is transferable to Vietnam life insurance because AI investment is reshaping customer operations and CX benchmarks across insurance.",
+      "tags": [
+        "Platform",
+        "VoC/Analytics",
+        "Strategy"
+      ],
+      "source": "Insurance Asia",
+      "date": "2026-07",
+      "url": "https://insuranceasia.com/insurance/news/apac-insurance-it-budgets-rise-ai-reshapes-spending-priorities",
+      "p": {
+        "all": "Insurance customers will increasingly experience AI-enabled servicing elsewhere, raising expectations for speed, consistency and personalization.",
+        "str": "Define AI use cases that directly support retention, claims guidance and customer-value expansion.",
+        "plt": "Prioritize governed AI for service knowledge, case routing, next-best-action and advisor support.",
+        "ana": "Create controls to measure AI impact on resolution, complaint reduction and engagement quality.",
+        "cmp": "Use AI-assisted segmentation to deliver more relevant inforce education at the right lifecycle moments.",
+        "com": "Be transparent when AI supports service and preserve human escalation for sensitive moments."
+      }
+    },
+    {
+      "cat": "vietnam",
+      "hot": true,
+      "headline": "APAC medical plan costs forecast to rise 11.3% in 2026",
+      "whats": "Insurance Asia reported that Aon expects employee medical plan costs in Asia-Pacific to rise 11.3% in 2026. The trend is highly transferable to Vietnam because affordability and medical inflation affect health protection, renewals and perceived value.",
+      "tags": [
+        "Strategy",
+        "Vietnam-context",
+        "Communication"
+      ],
+      "source": "Insurance Asia",
+      "date": "2026-07",
+      "url": "https://insuranceasia.com/insurance/news/apac-medical-plan-costs-rise-113-in-2026",
+      "p": {
+        "all": "Rising medical costs can make customers more sensitive to premiums while also increasing the perceived need for health protection.",
+        "str": "Balance affordability support with messaging on financial exposure from healthcare inflation.",
+        "plt": "Offer renewal explanations, premium allocation details and benefit reminders in digital servicing.",
+        "ana": "Monitor lapse risk among health-attached policies where affordability concerns appear in service interactions.",
+        "cmp": "Target customers before renewal with value reminders, claim stories and flexible payment education.",
+        "com": "Acknowledge cost pressure empathetically and explain options early, before customers decide to lapse."
+      }
+    },
+    {
+      "cat": "voc",
+      "hot": true,
+      "headline": "Ogilvy finds 93% of APAC consumers quietly leave brands when trust breaks",
+      "whats": "Advertising Vietnam summarized Ogilvy's Believability Index APAC 2026, stating that 93% of APAC consumers quietly leave a brand when they no longer trust it, while only 29% take any public punishment action and 10% post negative experiences on social media. The article was published on 15 July 2026.",
+      "tags": [
+        "VoC/Analytics",
+        "Strategy",
+        "Communication"
+      ],
+      "source": "Advertising Vietnam / Ogilvy",
+      "date": "2026-07-15",
+      "url": "https://advertisingvietnam.com/article/bao-cao-the-power-of-proof-cua-ogilvy-93-nguoi-tieu-dung-khong-len-tieng-khi-mat-niem-tin-su-im-lang",
+      "p": {
+        "all": "Silent churn risk is more dangerous than visible complaints; Manulife Vietnam should not rely only on complaint volume or social sentiment to detect trust erosion.",
+        "str": "Make trust recovery a core inforce strategy, especially after claims, premium changes and unresolved service cases.",
+        "plt": "Build signals for silent dissatisfaction, including repeat visits, abandoned requests and unresolved journeys.",
+        "ana": "Combine complaint data with behavioral drop-offs, payment changes and service-repeat indicators to detect hidden churn risk.",
+        "cmp": "Use trust-repair campaigns for customers exposed to friction, not only broad brand campaigns.",
+        "com": "Proactively close the loop after service issues and make proof of action visible to customers."
+      }
+    },
+    {
+      "cat": "martech",
+      "hot": false,
+      "headline": "AI moves to the marketing front-end, but consumer trust may prefer AI backstage",
+      "whats": "Advertising Vietnam reported on 21 July 2026 that major advertising platforms are pushing AI into visible customer-facing formats, while trust signals suggest overt AI presence can reduce brand value. The article cited Google, Meta, TikTok and other platforms accelerating automated campaign formats.",
+      "tags": [
+        "Platform",
+        "Communication",
+        "Strategy"
+      ],
+      "source": "Advertising Vietnam",
+      "date": "2026-07-21",
+      "url": "https://advertisingvietnam.com/article/ai-marketing-2026-nen-tang-day-ai-ra-mat-tien-nguoi-tieu-dung-lai-muon-dua-vao-hau-truong",
+      "p": {
+        "all": "For insurance, visible AI must be handled carefully because sensitive financial and health moments require reassurance, accountability and human backup.",
+        "str": "Adopt human-first AI principles for servicing and engagement, especially claims and retention journeys.",
+        "plt": "Use AI behind the scenes for relevance and speed while keeping human escalation prominent in sensitive journeys.",
+        "ana": "Measure trust and comprehension when AI-generated or AI-assisted content is used in customer communications.",
+        "cmp": "Test AI-assisted personalization with conservative disclosure and clear advisor or service-team ownership.",
+        "com": "Avoid overclaiming AI capability; emphasize helpfulness, security and human accountability."
+      }
+    },
+    {
+      "cat": "voc",
+      "hot": false,
+      "headline": "Gen Z in APAC uses AI as a first filter for brand decisions",
+      "whats": "Advertising Vietnam reported on 7 July 2026 that AI is becoming a starting point in Gen Z decision journeys, citing McKinsey ConsumerWise 2026 and Vietnam data from Decision Lab. The article stated that 78% of Vietnam users use AI and 33% integrate AI into daily life, with even higher usage among 18-24-year-olds.",
+      "tags": [
+        "VoC/Analytics",
+        "Platform",
+        "Strategy"
+      ],
+      "source": "Advertising Vietnam",
+      "date": "2026-07-07",
+      "url": "https://advertisingvietnam.com/article/hieu-ung-gen-z-khi-nguoi-tieu-dung-thuan-ai-tai-dinh-nghia-cuoc-choi-thuong-hieu-tai-chau-a-thai-bin",
+      "p": {
+        "all": "Younger customers may increasingly ask AI tools to compare insurers, explain products or decide whether to keep policies, so clarity and machine-readable trust signals matter.",
+        "str": "Prepare for AI-mediated discovery by making product, claims and service information clearer, consistent and externally findable.",
+        "plt": "Improve structured content, FAQs and service knowledge so AI search can surface accurate Manulife information.",
+        "ana": "Monitor search, chatbot and inbound query patterns for AI-influenced language such as comparisons and simplified explanations.",
+        "cmp": "Create educational content designed to answer customer questions before renewal or cross-sell decisions.",
+        "com": "Write in direct, explainable language that works for both customers and AI answer engines."
+      }
+    },
+    {
+      "cat": "martech",
+      "hot": false,
+      "headline": "Human-first AI positioned as 2026 CX transformation theme in Vietnam webinar",
+      "whats": "Advertising Vietnam reported that SMB+ and Freshworks organized the Global CX Summit: Human-First AI Transformation webinar on 8 July 2026, with the article published on 1 July 2026. The webinar topic covered AI in marketing, sales and customer service, balancing automation with customer experience.",
+      "tags": [
+        "Platform",
+        "VoC/Analytics",
+        "Communication"
+      ],
+      "source": "Advertising Vietnam / SMB+ / Freshworks",
+      "date": "2026-07-01",
+      "url": "https://advertisingvietnam.com/article/webinar-08072026-global-cx-summit-human-first-ai-transformation",
+      "p": {
+        "all": "The local CX vendor conversation is shifting from AI adoption to human-first orchestration across marketing, sales and service.",
+        "str": "Use human-first design as a guardrail for AI-enabled retention and servicing initiatives.",
+        "plt": "Prioritize AI use cases that shorten response time, personalize touchpoints and preserve human ownership for complex cases.",
+        "ana": "Measure both efficiency and customer-perceived empathy when deploying AI in service flows.",
+        "cmp": "Use AI to scale relevant nurturing, but maintain human review for sensitive health, claims and lapse-prevention messages.",
+        "com": "Explain AI as an assistant to employees and advisors, not a replacement for customer care."
+      }
+    },
+    {
+      "cat": "competitor",
+      "hot": false,
+      "headline": "BSI Awards recognizes Manulife AI-powered social campaign",
+      "whats": "Advertising Vietnam reported on 7 July 2026 that BSI Awards 2026 announced winners, including a Best A.I-Powered Social Media Campaign recognition where Manulife was noted for turning health reminders into catchy songs. This shows AI-led engagement becoming visible in Vietnam financial-services communications.",
+      "tags": [
+        "Campaign",
+        "Communication",
+        "Platform"
+      ],
+      "source": "Advertising Vietnam / Buzzmetrics",
+      "date": "2026-07-07",
+      "url": "https://advertisingvietnam.com/article/bsi-awards-2026-cong-bo-danh-sach-thuong-hieu-va-chien-dich-thang-giai",
+      "p": {
+        "all": "AI-powered engagement can make health reminders more memorable, but inforce CX value depends on whether the campaign drives sustained healthy behavior and policy engagement.",
+        "str": "Connect campaign creativity to lifecycle objectives such as health check-ins, rider education and app engagement.",
+        "plt": "Link social engagement to owned-channel journeys where customers can receive reminders, content and next steps.",
+        "ana": "Measure whether creative engagement changes dashboard actions, content completion or service inquiries among inforce customers.",
+        "cmp": "Build follow-up journeys from campaign participants into relevant health, protection and wellness nudges.",
+        "com": "Keep the tone helpful and supportive so health reminders feel caring rather than promotional."
+      }
+    },
+    {
+      "cat": "vietnam",
+      "hot": false,
+      "headline": "InnoEx 2026 frames AI, data and automation as Vietnam business inflection points",
+      "whats": "Advertising Vietnam reported on 13 July 2026 that InnoEx 2026 announced the theme 'The Inflection Point', with the event scheduled for 19-20 August 2026 in Ho Chi Minh City and expected to gather business leaders, technology companies, startups and innovation organizations. The article highlighted AI, data and automation as new competitive standards.",
+      "tags": [
+        "Vietnam-context",
+        "Platform",
+        "Strategy"
+      ],
+      "source": "Advertising Vietnam",
+      "date": "2026-07-13",
+      "url": "https://advertisingvietnam.com/article/innoex-2026-doanh-nghiep-viet-truoc-nhung-chuyen-dich-moi-cua-kinh-te-toan-cau",
+      "p": {
+        "all": "Vietnam business discourse is moving from experimentation to operational reinvention, increasing pressure on insurers to modernize service and engagement journeys.",
+        "str": "Prioritize scalable CX capabilities that convert data into measurable retention and engagement outcomes.",
+        "plt": "Assess where automation can reduce service friction without weakening customer trust.",
+        "ana": "Translate customer data into lifecycle dashboards for retention, service recovery and cross-sell readiness.",
+        "cmp": "Anchor campaigns in customer needs and proof of usefulness rather than technology novelty.",
+        "com": "Communicate technology changes through customer benefits: simpler, faster, clearer and more reliable service."
+      }
+    },
+    {
+      "cat": "martech",
+      "hot": false,
+      "headline": "Influencer marketing shifts toward data, creator-commerce and measurement infrastructure",
+      "whats": "Advertising Vietnam reported on 15 July 2026 that global advertising groups are rebuilding influencer-marketing ecosystems around technology, data and measurement, with creators increasingly tied to livestream selling, social commerce, affiliate marketing and performance media. The article highlighted Dentsu's integration of Meta Creator Marketplace and Partnership Ads API into its internal CATS system.",
+      "tags": [
+        "Platform",
+        "Campaign",
+        "VoC/Analytics"
+      ],
+      "source": "Advertising Vietnam",
+      "date": "2026-07-15",
+      "url": "https://advertisingvietnam.com/article/cac-ong-lon-nganh-quang-cao-gap-rut-xay-dung-lai-he-sinh-thai-truyen-thong-cuoc-canh-tranh-moi-cua-i",
+      "p": {
+        "all": "Creator-led trust and measurable social commerce are becoming performance disciplines, which can influence how financial brands build advocacy and education.",
+        "str": "Use creators selectively for trust-building education, not complex product advice or regulated claims.",
+        "plt": "Connect social engagement to compliant owned journeys where product details and disclosures are controlled.",
+        "ana": "Measure creator content by downstream actions such as education completion, appointment booking or app engagement.",
+        "cmp": "Test creator-led retention content around wellness, family protection and financial habits with strict compliance review.",
+        "com": "Ensure creators use accurate, approved language and avoid oversimplifying insurance benefits."
+      }
+    }
+  ]
+}
